@@ -10,4 +10,4 @@ Hey there! 👋 I'm Kamil, a passionate programmer with a love for all things Py
 
 Feel free to connect with me and let's embark on this coding adventure together! 🚀
 
-Connect with me on <i href="facebook.com">facebook</i> | Follow me on Twitter
+Connect with me on <a href="facebook.com">facebook</a> | Follow me on Twitter
