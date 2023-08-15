@@ -9,5 +9,3 @@ Hey there! 👋 I'm Kamil, a passionate programmer with a love for all things Py
 🌟 Internship seeker: I'm on the lookout for opportunities to kickstart my journey in the tech industry. My dream is to land a stimulating internship where I can learn from experienced professionals, contribute meaningfully, and immerse myself in real-world projects.
 
 Feel free to connect with me and let's embark on this coding adventure together! 🚀
-
-Connect with me on <a href="facebook.com">facebook</a> | Follow me on Twitter
